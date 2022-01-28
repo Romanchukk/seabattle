@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C-Project/SeaBattle/display_game.c
+display_game.h
+D:/C-Project/SeaBattle/display_game.h
+seabattle_ship.h
+D:/C-Project/SeaBattle/seabattle_ship.h
+
+D:/C-Project/SeaBattle/display_game.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/C-Project/SeaBattle/seabattle_ship.h
+
